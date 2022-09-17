@@ -1,1 +1,1 @@
-print alphabet times ten
+is lower
