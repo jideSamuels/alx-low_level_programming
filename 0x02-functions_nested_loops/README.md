@@ -1,1 +1,1 @@
-alphabet
+print alphabet times ten
