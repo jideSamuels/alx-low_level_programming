@@ -1,1 +1,1 @@
-absolute value
+last digits
