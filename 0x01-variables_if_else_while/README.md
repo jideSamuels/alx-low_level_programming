@@ -1,1 +1,1 @@
-reverse
+print base16
