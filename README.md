@@ -1,1 +1,1 @@
-C hello world
+print combination three
