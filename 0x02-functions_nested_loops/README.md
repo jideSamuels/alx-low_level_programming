@@ -1,1 +1,1 @@
-last digits
+twenty four hours
