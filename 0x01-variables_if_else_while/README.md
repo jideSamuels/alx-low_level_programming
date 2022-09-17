@@ -1,1 +1,1 @@
-primt numberz
+reverse
