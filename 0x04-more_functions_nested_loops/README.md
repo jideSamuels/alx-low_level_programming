@@ -1,1 +1,1 @@
-fizz buzz
+print triangle
