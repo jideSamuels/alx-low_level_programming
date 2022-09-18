@@ -1,1 +1,1 @@
-is upper
+is digit
