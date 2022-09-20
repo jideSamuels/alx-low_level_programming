@@ -1,1 +1,1 @@
-print reverse
+puts half
